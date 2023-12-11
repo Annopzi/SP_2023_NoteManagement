@@ -3,6 +3,7 @@
 
 **Step 1**
 open terminal 
+```bash
 $ cd backend
 $ npm i
 
